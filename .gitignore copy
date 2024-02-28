@@ -1,0 +1,37 @@
+# Arquivos gerados pelo sistema operacional
+.DS_Store
+
+# Arquivos gerados pelo Python
+__pycache__
+
+# Arquivos de configuração local (gerados pelo `python manage.py collectstatic`)
+staticfiles/
+
+# Arquivos de banco de dados
+# db.sqlite3
+
+# Arquivos de ambiente (se você estiver usando um arquivo .env)
+.env
+
+# Dependências de desenvolvimento (geradas pelo `pip`)
+venv/
+.env/
+
+# Logs e arquivos temporários
+*.log
+*.swp
+*.swo
+
+# Arquivos de mídia (se você não estiver usando armazenamento em nuvem)
+# media/
+
+# Arquivos de configuração de IDEs
+.idea/
+.vscode/
+
+# Outros arquivos de configuração específicos do desenvolvedor
+*.pyc
+
+# Arquivos de configuração do sistema de controle de versão
+.svn/
+.gitignore
